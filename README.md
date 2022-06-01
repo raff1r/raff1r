@@ -2,6 +2,6 @@
 
 My Gitlab Account(main): [gitlab.com/raffr](https://gitlab.com/raffr/)
 
-My Gitlab Account: [github.com/raff1r](https://github.com/raff1r)
+My Github Account: [github.com/raff1r](https://github.com/raff1r)
 
-My Gitlab Account: [raffr.gitlab.io/notes](https://raffr.gitlab.io/notes/)
+My Notebook: [raffr.gitlab.io/notes](https://raffr.gitlab.io/notes/)
